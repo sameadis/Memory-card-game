@@ -9,7 +9,7 @@ APP LINK: https://sameadis.github.io/Memory-card-game/
 Match cards in less time and with less moves.
 
 ## INSTRUCTIONS
-There are eight sets of unique cards in the game. All the cards will be visible for about one minute at the start of the game, then they will be covered. Try to remember the positions of all the paires and select pairs of cards that match. If your selections are a match, they remain uncovered; but if they don't much, both cards will flip over and become covered. 
+There are eight sets of unique cards in the game. All the cards will be visible for about one second at the start of the game, then they will be covered. Try to remember the positions of all the paires and select pairs of cards that match. If your selections are a match, they remain uncovered; but if they don't much, both cards will flip over and become covered. 
 When all the cards are exposed, you win! The smaller the time taken and the number of moves the better; it means you have a better memory.
 
 ## HOW I BUILT THE GAME
