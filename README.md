@@ -18,4 +18,4 @@ When all the cards are exposed, you win! The smaller the time taken and the numb
 - used css-grid to position the cards in a square grid.
 - the cards positions reshuffle every time the page is refreshed or game restarted.
 - a counter will count the time elapsed in hours, minutes, and seconds. Assumes the game won't last a day!
-- at the end of the game, a prompt will ask the user if he wants to reply. If he does, the game will reshuffle.
+- at the end of the game, a prompt will ask if the user wants to reply. If they do, the game will reshuffle and reload.
